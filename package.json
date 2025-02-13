@@ -4,7 +4,8 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon run dev"
+    "dev": "nodemon run dev",
+    "start": "node run dev"
   },
   "keywords": [],
   "author": "",
