@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon run dev",
-    "start": "node run dev"
+    "start": "node run app.js"
   },
   "keywords": [],
   "author": "",
